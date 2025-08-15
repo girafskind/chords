@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# This is the note list
+
 notes = ["C","C#","D","D#","E","F","F#","G","G#","A","A#","B"]
 
 def circle_of_fifths():
